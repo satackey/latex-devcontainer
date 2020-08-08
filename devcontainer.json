@@ -1,0 +1,11 @@
+{
+	"name": "LaTeX",
+	"image": "satackey/kosen-reports:latest",
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/ash"
+	},
+
+	"extensions": [
+		"james-yu.latex-workshop"
+	]
+}
